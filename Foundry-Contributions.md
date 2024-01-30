@@ -7,3 +7,7 @@
 #### Add named imports in default solidity templates
 - commit: https://github.com/foundry-rs/foundry/pull/5464
 - This PR refactors basic solidity templates for better readability.
+
+#### Replace Goerli with Sepolia
+- commit: https://github.com/foundry-rs/book/pull/1081
+- This PR replaces goerli tesnet details with sepolia.
